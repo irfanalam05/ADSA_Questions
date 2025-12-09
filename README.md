@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0136-single-number) |
+| [3583-count-special-triplets](https://github.com/irfanalam05/ADSA_Questions/tree/master/3583-count-special-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/irfanalam05/ADSA_Questions/tree/master/1925-count-square-sum-triples) |
+## Hash Table
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/irfanalam05/ADSA_Questions/tree/master/3583-count-special-triplets) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/irfanalam05/ADSA_Questions/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
