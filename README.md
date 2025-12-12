@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/irfanalam05/ADSA_Questions/tree/master/0223-rectangle-area) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/irfanalam05/ADSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/irfanalam05/ADSA_Questions/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/irfanalam05/ADSA_Questions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
