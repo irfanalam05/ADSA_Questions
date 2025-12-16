@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [1046-last-stone-weight](https://github.com/irfanalam05/ADSA_Questions/tree/master/1046-last-stone-weight) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3583-count-special-triplets](https://github.com/irfanalam05/ADSA_Questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/irfanalam05/ADSA_Questions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/irfanalam05/ADSA_Questions/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3516-find-closest-person](https://github.com/irfanalam05/ADSA_Questions/tree/master/3516-find-closest-person) |
 ## Enumeration
 |  |
