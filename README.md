@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
 | [0136-single-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [3583-count-special-triplets](https://github.com/irfanalam05/ADSA_Questions/tree/master/3583-count-special-triplets) |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
