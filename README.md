@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/irfanalam05/ADSA_Questions/tree/master/0010-regular-expression-matching) |
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/irfanalam05/ADSA_Questions/tree/master/0010-regular-expression-matching) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/irfanalam05/ADSA_Questions/tree/master/3606-coupon-code-validator) |
 ## Sorting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/irfanalam05/ADSA_Questions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/irfanalam05/ADSA_Questions/tree/master/0010-regular-expression-matching) |
 ## Two Pointers
 |  |
 | ------- |
