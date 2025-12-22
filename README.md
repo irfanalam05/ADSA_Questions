@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0039-combination-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/3227-vowels-game-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
