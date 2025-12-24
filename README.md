@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0944-delete-columns-to-make-sorted](https://github.com/irfanalam05/ADSA_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1046-last-stone-weight](https://github.com/irfanalam05/ADSA_Questions/tree/master/1046-last-stone-weight) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/irfanalam05/ADSA_Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
