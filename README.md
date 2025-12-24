@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/irfanalam05/ADSA_Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/irfanalam05/ADSA_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/irfanalam05/ADSA_Questions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/irfanalam05/ADSA_Questions/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/irfanalam05/ADSA_Questions/tree/master/1733-minimum-number-of-people-to-teach) |
