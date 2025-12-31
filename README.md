@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -215,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/irfanalam05/ADSA_Questions/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
