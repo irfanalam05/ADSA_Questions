@@ -5,12 +5,11 @@ class Solution {
         return result;
     }    
     private void backtrack(int[] candidates, int remaining, int start,
-                           List<Integer> path, List<List<Integer>> result) {
+    List<Integer> path, List<List<Integer>> result) {
         if (remaining == 0) {
             result.add(new ArrayList<>(path));
             return;
-        }
-        
+        }        
         if (remaining < 0) {
             return;
         }
