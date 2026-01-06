@@ -227,12 +227,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
