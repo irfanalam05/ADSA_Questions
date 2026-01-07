@@ -228,16 +228,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
