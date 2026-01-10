@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0213-house-robber-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/irfanalam05/ADSA_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/irfanalam05/ADSA_Questions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/irfanalam05/ADSA_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/irfanalam05/ADSA_Questions/tree/master/0013-roman-to-integer) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/irfanalam05/ADSA_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/irfanalam05/ADSA_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
