@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/irfanalam05/ADSA_Questions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0932-beautiful-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0932-beautiful-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/irfanalam05/ADSA_Questions/tree/master/0724-find-pivot-index) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/irfanalam05/ADSA_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bucket Sort
