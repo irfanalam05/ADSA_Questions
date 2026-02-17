@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/irfanalam05/ADSA_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bucket Sort
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
