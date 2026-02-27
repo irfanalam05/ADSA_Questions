@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/irfanalam05/ADSA_Questions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/irfanalam05/ADSA_Questions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
