@@ -1,7 +1,8 @@
 class Solution {
     public int maxProductPath(int[][] grid) {
         int MOD = 1000000007;
-        int n = grid.length, m = grid[0].length;
+        int n = grid.length;
+        int m = grid[0].length;
 
         long[][] maxDP = new long[n][m];
         long[][] minDP = new long[n][m];
