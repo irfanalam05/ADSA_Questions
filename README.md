@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/irfanalam05/ADSA_Questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/1980-find-unique-binary-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/irfanalam05/ADSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/irfanalam05/ADSA_Questions/tree/master/0164-maximum-gap) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2785-sort-vowels-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/irfanalam05/ADSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -296,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/irfanalam05/ADSA_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Segment Tree
 |  |
