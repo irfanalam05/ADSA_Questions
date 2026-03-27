@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2906-construct-product-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/irfanalam05/ADSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/irfanalam05/ADSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/irfanalam05/ADSA_Questions/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3227-vowels-game-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/irfanalam05/ADSA_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/irfanalam05/ADSA_Questions/tree/master/0067-add-binary) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/irfanalam05/ADSA_Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Brainteaser
 |  |
 | ------- |
