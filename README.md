@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/irfanalam05/ADSA_Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/irfanalam05/ADSA_Questions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/irfanalam05/ADSA_Questions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/irfanalam05/ADSA_Questions/tree/master/0152-maximum-product-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/irfanalam05/ADSA_Questions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/irfanalam05/ADSA_Questions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/irfanalam05/ADSA_Questions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/irfanalam05/ADSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/irfanalam05/ADSA_Questions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
