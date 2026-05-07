@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/irfanalam05/ADSA_Questions/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/irfanalam05/ADSA_Questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3660-jump-game-ix](https://github.com/irfanalam05/ADSA_Questions/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/irfanalam05/ADSA_Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [3660-jump-game-ix](https://github.com/irfanalam05/ADSA_Questions/tree/master/3660-jump-game-ix) |
 ## Geometry
 |  |
 | ------- |
