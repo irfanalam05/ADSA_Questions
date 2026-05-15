@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/irfanalam05/ADSA_Questions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/irfanalam05/ADSA_Questions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/irfanalam05/ADSA_Questions/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/irfanalam05/ADSA_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0213-house-robber-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
