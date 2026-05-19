@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2540-minimum-common-value](https://github.com/irfanalam05/ADSA_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/irfanalam05/ADSA_Questions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/2906-construct-product-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/irfanalam05/ADSA_Questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/irfanalam05/ADSA_Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/irfanalam05/ADSA_Questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/irfanalam05/ADSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [2540-minimum-common-value](https://github.com/irfanalam05/ADSA_Questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/irfanalam05/ADSA_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
+| [2540-minimum-common-value](https://github.com/irfanalam05/ADSA_Questions/tree/master/2540-minimum-common-value) |
 ## Backtracking
 |  |
 | ------- |
