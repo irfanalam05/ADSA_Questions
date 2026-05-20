@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2540-minimum-common-value](https://github.com/irfanalam05/ADSA_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/irfanalam05/ADSA_Questions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/irfanalam05/ADSA_Questions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/irfanalam05/ADSA_Questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/irfanalam05/ADSA_Questions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/irfanalam05/ADSA_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/irfanalam05/ADSA_Questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/irfanalam05/ADSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
