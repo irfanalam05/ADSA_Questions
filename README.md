@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/irfanalam05/ADSA_Questions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/irfanalam05/ADSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/irfanalam05/ADSA_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0628-maximum-product-of-three-numbers](https://github.com/irfanalam05/ADSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/irfanalam05/ADSA_Questions/tree/master/0724-find-pivot-index) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/irfanalam05/ADSA_Questions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/irfanalam05/ADSA_Questions/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/irfanalam05/ADSA_Questions/tree/master/0223-rectangle-area) |
+| [0628-maximum-product-of-three-numbers](https://github.com/irfanalam05/ADSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0932-beautiful-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/irfanalam05/ADSA_Questions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/irfanalam05/ADSA_Questions/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/irfanalam05/ADSA_Questions/tree/master/0164-maximum-gap) |
+| [0628-maximum-product-of-three-numbers](https://github.com/irfanalam05/ADSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/irfanalam05/ADSA_Questions/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/irfanalam05/ADSA_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
