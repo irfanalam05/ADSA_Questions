@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3227-vowels-game-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/irfanalam05/ADSA_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/irfanalam05/ADSA_Questions/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/irfanalam05/ADSA_Questions/tree/master/1733-minimum-number-of-people-to-teach) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/irfanalam05/ADSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/irfanalam05/ADSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Stack
