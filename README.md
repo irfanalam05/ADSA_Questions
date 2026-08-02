@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/irfanalam05/ADSA_Questions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0932-beautiful-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/irfanalam05/ADSA_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/irfanalam05/ADSA_Questions/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/irfanalam05/ADSA_Questions/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/irfanalam05/ADSA_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/0932-beautiful-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/irfanalam05/ADSA_Questions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/irfanalam05/ADSA_Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/irfanalam05/ADSA_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/irfanalam05/ADSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/3227-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
