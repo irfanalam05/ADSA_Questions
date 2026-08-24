@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/irfanalam05/ADSA_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/irfanalam05/ADSA_Questions/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/irfanalam05/ADSA_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/irfanalam05/ADSA_Questions/tree/master/1390-four-divisors) |
 | [1510-stone-game-iv](https://github.com/irfanalam05/ADSA_Questions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/irfanalam05/ADSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/irfanalam05/ADSA_Questions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/irfanalam05/ADSA_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/irfanalam05/ADSA_Questions/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/irfanalam05/ADSA_Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/irfanalam05/ADSA_Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/irfanalam05/ADSA_Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/irfanalam05/ADSA_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/irfanalam05/ADSA_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 | [3227-vowels-game-in-a-string](https://github.com/irfanalam05/ADSA_Questions/tree/master/3227-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/irfanalam05/ADSA_Questions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/irfanalam05/ADSA_Questions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/irfanalam05/ADSA_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/irfanalam05/ADSA_Questions/tree/master/2906-construct-product-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/irfanalam05/ADSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -398,11 +403,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/irfanalam05/ADSA_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/irfanalam05/ADSA_Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/irfanalam05/ADSA_Questions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
