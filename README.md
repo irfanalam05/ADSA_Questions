@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/irfanalam05/ADSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/irfanalam05/ADSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/irfanalam05/ADSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/irfanalam05/ADSA_Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/irfanalam05/ADSA_Questions/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3583-count-special-triplets](https://github.com/irfanalam05/ADSA_Questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/irfanalam05/ADSA_Questions/tree/master/3606-coupon-code-validator) |
